@@ -73,19 +73,12 @@ I've contributed to several open-source projects, including:
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ehtesham-Zahid/Ehtesham-Zahid/pacman-output/pacman-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ehtesham-Zahid/Ehtesham-Zahid/pacman-output/pacman-contribution-graph.svg">
-
+<p align="center">
   <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Ehtesham-Zahid/Ehtesham-Zahid/pacman-output/pacman-contribution-graph.svg">
-</picture>
+    src="https://raw.githubusercontent.com/Ehtesham-Zahid/Ehtesham-Zahid/pacman-output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+  />
+</p>
 
 ###
 
