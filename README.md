@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehtesham Zahid</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer • Open Source Contributor • Computer Science Student
+Full-Stack Software Engineer • Open Source Contributor • Computer Science Student
 </h3>
 
 <p align="center">
@@ -12,11 +12,11 @@ Building scalable web applications, solving real-world problems, and contributin
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer specializing in the MERN stack
-- 🌱 Currently learning **PostgreSQL, Docker, AWS, and System Design**
-- 🧠 Regularly solving **Data Structures & Algorithms**
-- 🌍 Open Source Contributor with **15+ merged contributions**
-- 🎯 Seeking Software Engineering Internship opportunities
+- 💻 Building scalable full-stack web applications with modern web technologies
+- ☁️ Exploring System Design, Cloud, and CI/CD
+- 🧠 Solved 120+ LeetCode problems with a strong focus on problem-solving
+- 🌍 Open Source Contributor with 15+ merged pull requests
+- 🎯 Seeking entry-level Software Engineer opportunities
 
 ---
 
@@ -33,16 +33,62 @@ Building scalable web applications, solving real-world problems, and contributin
 ## 🌟 Featured Projects
 
 ### 🛒 SwiftCart
-A full-stack multi-vendor e-commerce platform built with MERN, featuring authentication, Stripe payments, real-time updates, and an admin dashboard.
+**Full-Stack Multi-Vendor E-commerce Platform**
+
+A scalable MERN marketplace where multiple vendors can manage stores while customers enjoy a modern shopping experience.
+
+**Highlights**
+- 🏪 Multi-vendor architecture with role-based authentication
+- 💳 Stripe payments with secure checkout
+- 💬 Real-time customer-seller chat using Socket.io
+- 📊 Seller & Admin analytics dashboards
+- ⚡ Event-based flash sales and wishlist support
+
+**Tech:** React • Node.js • Express • MongoDB • Redux Toolkit • Socket.io • Stripe • Tailwind CSS
+
+<p align="left">
+  <a href="https://swift-cartt.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Ehtesham-Zahid/multivendor-project">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=aCY-DYvhoXk">
+    <img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 📚 SkillStack
-A modern Learning Management System built with Next.js, Express.js, MongoDB, Redis, and Stripe.
+**Learning Management System**
 
-### 📝 FormFlow
-A dynamic form builder inspired by Notion and Tally, supporting customizable forms and response management.
+A modern LMS that enables instructors to sell courses securely with DRM-protected video streaming, payments, and analytics.
 
-### 🛠️ ServiceHub
-A service marketplace built with Next.js and MySQL, designed as a complete DBMS project with authentication and relational data modeling.
+**Highlights**
+- 🎥 DRM-protected video streaming with VdoCipher
+- 💳 Stripe-powered course purchases
+- 👨‍🏫 Student & Instructor dashboards
+- 📈 Enrollment and revenue analytics
+- 🔔 Real-time notifications using Socket.io
+
+**Tech:** Next.js • TypeScript • Express • MongoDB • Redis • Stripe • VdoCipher • Tailwind CSS
+
+<p align="left">
+  <a href="https://skillstack-frontend-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Ehtesham-Zahid/SkillStack">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=HcY1_XlG02s">
+    <img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -56,22 +102,15 @@ I've contributed to several open-source projects, including:
 - ✅ Payment-related open-source projects
 - 🚀 15+ merged pull requests
 
+🔗 **[View my Chromium Gerrit Contributions](https://chromium-review.googlesource.com/q/owner:ehteshamzahid313@gmail.com)**
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ehtesham-Zahid&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehtesham-Zahid&theme=github-dark&hide_border=true" />
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Ehtesham-Zahid&theme=github-dark&hide_border=true" />
 </div>
-
----
-
-
-###
 
 <p align="center">
   <img
@@ -79,8 +118,6 @@ I've contributed to several open-source projects, including:
     alt="Pac-Man contribution graph"
   />
 </p>
-
-###
 
 ---
 
@@ -100,7 +137,7 @@ I've contributed to several open-source projects, including:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:ehteshamzahid313@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
