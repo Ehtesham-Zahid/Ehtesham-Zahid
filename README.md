@@ -99,7 +99,7 @@ I've contributed to several open-source projects, including:
 - ✅ Chromium
 - ✅ Joplin
 - ✅ GoalSlot
-- ✅ Payment-related open-source projects
+- ✅ Pathment
 - 🚀 15+ merged pull requests
 
 🔗 **[View my Chromium Gerrit Contributions](https://chromium-review.googlesource.com/q/owner:ehteshamzahid313@gmail.com)**
